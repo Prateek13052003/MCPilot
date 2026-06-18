@@ -1,4 +1,6 @@
-# RepoMind: Repository Intelligence Agent using MCP and Ollama
+# RepoMind: Repository Intelligence Agent using MCP And OLLAMA
+
+
 
 RepoMind is a local AI-powered repository analysis agent that combines the Model Context Protocol (MCP) with Ollama-hosted Large Language Models to inspect, understand, and analyze software projects.
 
