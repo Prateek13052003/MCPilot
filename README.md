@@ -13,7 +13,6 @@ Unlike traditional code analysis tools, RepoMind uses natural language reasoning
 ## Overview
 
 RepoMind demonstrates how MCP servers can be integrated with local LLMs to create intelligent software engineering assistants.
-
 The project enables:
 
 * MCP Filesystem Server Integration
