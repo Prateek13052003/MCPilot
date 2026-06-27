@@ -1,4 +1,4 @@
-# RepoMind: Repository Intelligence Agent using MCP And OLLAMA
+# RepoMind: Repository Intelligence Agent using MCP And Ollama
 
 
 
